@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`file 1`] = `
+Object {
+  "first": "Spongebob",
+  "interests": Array [
+    "Karate",
+    "Jellyfishing",
+  ],
+  "last": "Squarepants",
+  "profession": "Fry Cook",
+}
+`;
